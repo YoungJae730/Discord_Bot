@@ -214,4 +214,4 @@ async def 블랙잭(ctx):
             
     await ctx.reply(embed=myEmbed, view=button())
 
-bot.run('MTEwNTY5MzU3MjM0NDMzNjQyNQ.Gn4qdS.3thAkTTPyJCzME6HnsjQXXfWOtpd47eD-OrG8E')
+bot.run('코드')
